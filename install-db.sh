@@ -1,0 +1,1 @@
+mysql --user=root --password=password --execute="CREATE DATABASE pressure_measurements;"
