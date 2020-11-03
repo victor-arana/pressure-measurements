@@ -13,4 +13,5 @@ public class PressureMeasurement {
     private Integer systolicPressure;
     private Integer diastolicPressure;
     private Integer heartRate;
+    private LocalDateTime dateTime;
 }
